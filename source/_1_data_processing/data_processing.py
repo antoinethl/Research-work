@@ -2,9 +2,8 @@ import pandas as pd
 import os
 from datetime import datetime
 
-
 def create_dataframe(device_type=None, time=0, nbr_of_files=10000, show=True):
-    
+    print(__name__)
     """
         Reads the Excel files and create a pandas DataFrame containing 
         the time series information for a given device
@@ -24,7 +23,7 @@ def create_dataframe(device_type=None, time=0, nbr_of_files=10000, show=True):
         df: DataFrame
             The DataFrame containing the informations from files for the given device
     """
-    
+
     path = "../"
 
     df = pd.DataFrame()

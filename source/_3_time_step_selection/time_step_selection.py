@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 from scipy.interpolate import interp1d
 
-from ..data_processingg.data_processing import create_dataframe
+from .._1_data_processing import data_processing
 
 
 def check_timescale(df, kind="linear", graph=True, error=True):
