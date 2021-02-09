@@ -62,7 +62,7 @@ First, in the root folder, requirements can be installed in a new conda environn
 	$ conda activate <env>
 
 The best way to use the application is to open and run app.py in an IDE like spyder.
-However, the application can be launched in the shell using:
+However, the application can be run in the shell using:
 
 	$ python -m app
 
