@@ -24,7 +24,9 @@ def main(full=False):
     ts1.compute_weights_init() 
     ts1.plot_weights() 
     ts1.plot_predictions()
+    print(ts1.error)
     print(ts1.error.mean())
+    ts1.save_conf()
     
 
 if __name__ == "__main__":

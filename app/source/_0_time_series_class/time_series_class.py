@@ -572,7 +572,7 @@ class TimeSeries():
         else:
             filename = "conf_" + str(self.conf["device"]) + "_" + datetime.today().strftime('%Y-%m-%d') + ".txt"
             
-        path = "/"
+        path = "./source/_0_time_series_class/configuration/"
         filename = path + filename
         
         with open(filename, "w") as file:
