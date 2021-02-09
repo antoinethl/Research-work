@@ -1,0 +1,1 @@
+{"device": "03", "time_scale": 1, "nb_clust": 3}

@@ -1,0 +1,1 @@
+{"device": "05", "time_step": 1, "w_sizes": {"CNN_LSTM": 65, "CNN": 70, "LSTM": 10, "MLP": 70}, "nb_clust": 5}
