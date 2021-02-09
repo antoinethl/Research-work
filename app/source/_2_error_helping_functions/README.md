@@ -1,3 +1,3 @@
 # Error helping functions
 
-Functions used to compute or print the errors between time series.
+Functions used to compute or print the errors between time series / predicted windows.
