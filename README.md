@@ -1,11 +1,11 @@
 # Hybrid Method for Local Consumption Forecasting
 
 
-The power grid becomes a smart grid [[1]](#1). In fact, from the fist electric transmission line installed by Thomas Edison in~1882 to nowadays super-large electric grids, power systems have evolved with the advance and progress  of human industrial civilization. 
+The power grid becomes a smart grid [[1]](#1). In fact, from the fist electric transmission line installed by Thomas Edison in 1882 to nowadays super-large electric grids, power systems have evolved with the advance and progress  of human industrial civilization. 
 
 The power grid has evolved in how electricity is generated and distributed. Many power stations and renewable energy's plants are built in a trellis to deliver energy across a country. 
 
-However, the power grid has not only evolved in its structure but also in the inclusion of prosumers, ~i.e.~consumers with sources of production, in the management of supply and demand. The power grid includes the consumer's behaviors to regulate the energy flows and prices.
+However, the power grid has not only evolved in its structure but also in the inclusion of prosumers, i.e. consumers with sources of production, in the management of supply and demand. The power grid includes the consumer's behaviors to regulate the energy flows and prices.
 
 To optimize and to regulate energy flows and price, the electric system requires the knowledge of the future consumption in short term. This means knowing the global consumption and any local consumption, i.e. scaling from a country to a device, to be able to forecast their future. Estimating energy consumption is one of the critical challenges of our time and yet, the consideration for this field is still increasing. 
 
